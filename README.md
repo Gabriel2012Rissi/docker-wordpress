@@ -1,5 +1,5 @@
 ## <img src="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png" alt=logo width="80" height="80" /> <img src="https://secure.gravatar.com/avatar/26da7b36ff8bb5db4211400358dc7c4e.jpg?s=512&r=g&d=mm" width="80" height="80" /> Wordpress + Docker
-## Utilizando Wordpress baseado em containers com Docker...
+## Utilizando Wordpress baseado em containers com Docker... :whale:
 
 Pressupôe-se que você já passui o Docker completamente instalado, bem como o docker-compose. Se você ainda não efetuou a instalação, consulte a documentação através do link:
 https://docs.docker.com/
